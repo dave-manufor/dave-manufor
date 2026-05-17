@@ -25,4 +25,4 @@ I'm currently looking for full-time roles where I can leverage my full-stack bac
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/david-manufor)
 [![Email](https://img.shields.io/badge/Email-david@davman.dev-EA4335?style=for-the-badge&logo=gmail)](mailto:david@davman.dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-David%20Manufor-000000?style=for-the-badge&logo=vercel)](https://dave-manufor.vercel.app/)
-[![Blog](https://img.shields.io/badge/Blog-Human%20Readable.app-000000?style=for-the-badge&logo=vercel)](https://davman-blog.vercel.app/)
+[![Blog](https://img.shields.io/badge/Blog-Human%20Readable-000000?style=for-the-badge&logo=vercel)](https://davman-blog.vercel.app/)
