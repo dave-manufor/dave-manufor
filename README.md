@@ -24,4 +24,5 @@ I love building products that solve real-world user and business problems. With 
 I'm currently looking for full-time roles where I can leverage my full-stack background to build and scale AI-driven products.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/david-manufor)
 [![Email](https://img.shields.io/badge/Email-david@davman.dev-EA4335?style=for-the-badge&logo=gmail)](mailto:david@davman.dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-davman.dev-000000?style=for-the-badge&logo=vercel)](https://davman.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-davman.dev-000000?style=for-the-badge&logo=vercel)](https://dave-manufor.vercel.app/)
+[![Blog](https://img.shields.io/badge/Blog-davman--blog.vercel.app-000000?style=for-the-badge&logo=vercel)](https://davman-blog.vercel.app/)
